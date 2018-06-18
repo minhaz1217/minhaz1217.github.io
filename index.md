@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+Hello!!!
+My name is **Minhazul Hayat Khan**. 
+
+I am currently a _student_. Still completing my Bachelor's degree. Here I will list my projects ( finished and unfinished ).
+
+16-05-2018 - Working on an *AI* that plays _SNAKE_ automatically. 
+
 You can use the [editor on GitHub](https://github.com/minhaz1217/minhaz1217.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
