@@ -1,6 +1,6 @@
-```
-## Welcome to GitHub Pages
-```
+
+# Welcome to My Page.
+
 ##Hello!!!
 My name is **Minhazul Hayat Khan**. 
 
